@@ -1,7 +1,6 @@
 # Tech Notes
 
-A personal collection of technical notes on embedded systems, industrial
-connectivity and development tools — practical how-tos, checks and fixes
+A personal collection of technical notes on embedded systems and development tools — practical how-tos, checks and fixes
 gathered from day-to-day work.
 
 ## Windows / WSL
